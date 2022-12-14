@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyaji19&show_icons=true&locale=en&layout=compact" alt="tonyaji19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyaji19&show_icons=true&locale=en" alt="tonyaji19" /></p>
+

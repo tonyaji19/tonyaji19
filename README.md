@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tony-aji-palguno-2302b71b5/](https://www.linkedin.com/in/tony-aji-palguno-2302b71b5/)
 
-- ⚡ Fun fact **Ilvu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

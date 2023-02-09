@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyaji19&label=Profile%20views&color=0e75b6&style=flat" alt="tonyaji19" /> </p>
 
-- 🌱 I’m currently learning **Redux, library React and framework NextJS**
+- 🌱 I’m currently learning **Redux, Zustand and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://portofolio-tonyajipalguno.netlify.app/](https://portofolio-tonyajipalguno.netlify.app/)
 

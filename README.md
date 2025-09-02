@@ -1,78 +1,90 @@
-<h1 align="center">Hi 👋, I'm Tony Aji Palguno | Software Engineer</h1>
-<h3 align="center">Passionate Frontend Developer and Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Tony Aji Palguno</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer (Frontend & Backend)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyaji19&label=Profile%20views&color=0e75b6&style=flat" alt="tonyaji19" /> </p>
-
-- 🌱 I’m currently learning **Microservices & Animation Design**
-
-- 👨‍💻 All of my projects are available at [https://portofolio-tonyajipalguno.netlify.app/](https://portofolio-tonyajipalguno.netlify.app/)
-
-- 📫 How to reach me **tonyajipalguno19@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tony-aji-palguno-2302b71b5/](https://www.linkedin.com/in/tony-aji-palguno-2302b71b5/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tony-aji-palguno-2302b71b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyajipalguno" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:tonyajipalguno19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tony-aji-palguno-2302b71b5"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/tonyaji19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portofolio-tonyajipalguno.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌟 About Me  
+- 🔭 Currently working as **Software Engineer at MRT Jakarta**  
+- 💻 Skilled in **Frontend (ReactJS, NextJS, React Native)** & **Backend (.NET Core, ExpressJS)**  
+- ⚡ Passionate about **Web Applications, APIs, and Microservices**  
+- 🌱 Currently learning **Microservices & UI/UX Animation Design**  
+- 📫 Reach me at **tonyajipalguno19@gmail.com**  
+
+---
+
+### 💼 Work Experience  
+- **Software Engineer** — *PT MRT Jakarta (2025 - Now)*  
+   🚊 Build & rewrite **Contract Monitoring App** and develop **MartiDocs App** (similar to Monday.com).  
+
+- **Software Developer** — *PT Bank Negara Indonesia Tbk (2023 - 2024)*  
+   💳 Developed **Electronic Loan Origination (ELO)**, **Loan Management System**, and APIs with .NET Core.  
+   ✅ Handled **frontend development**, **testing**, and **SQL injection security (SAST)**.  
+
+- **Frontend Engineer (Generasi Gigih 2.0)** — *YABB & GoTo (2022)*  
+   🌐 Built website project with ReactJS + Chakra UI, collaborated via GitHub.  
+
+- **Laboratory Assistant** — *Lepkom, Universitas Gunadarma (2021 - 2022)*  
+   👨‍🏫 Assisted students, supervised labs, and prepared course materials.  
+
+- **IT Management Support** — *BumiNala Books (2021 - 2022)*  
+   🛠️ Maintained & fixed website with WordPress + Elementor, collaborated with vendors.  
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 🔹 Languages & Frameworks  
 <p align="left"> 
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
- 
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,dotnet,cs,html,css,tailwind,bootstrap,redux" />
 </p>
 
+#### 🔹 Databases  
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
 
+#### 🔹 Tools & Platforms  
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,gitlab,figma,xd,postman,vscode,visualstudio" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyaji19&show_icons=true&locale=en&layout=compact" alt="tonyaji19" /></p>
+---
 
+### 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonyaji19&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyaji19&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyaji19&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Certifications & Achievements  
+- 🎓 **BNSP - Junior Web Programmer** (2022)  
+- 📜 **Progate** — HTML, CSS, Git, JavaScript, ReactJS (2022)  
+- 🖥️ **Microsoft Power Apps** development  
+- 🌐 Networking (Cisco & Mikrotik Fundamental - Intermediate)  
+
+---
+
+### ✨ Fun Fact  
+- 💡 Always curious about new tech stacks  
+- 🎨 Love UI/UX design with Figma & Adobe XD  
+- 🏞️ Enjoys problem-solving & teamwork collaboration  
+
+---
+
+⭐️ From [Tony Aji Palguno](https://github.com/tonyaji19)

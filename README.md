@@ -8,13 +8,17 @@
   <a href="https://portofolio-tonyajipalguno.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonyaji19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🌟 About Me  
 - 🔭 Currently working as **Software Engineer at MRT Jakarta**  
 - 💻 Skilled in **Frontend (ReactJS, NextJS, React Native)** & **Backend (.NET Core, ExpressJS)**  
 - ⚡ Passionate about **Web Applications, APIs, and Microservices**  
-- 🌱 Currently learning **Microservices & UI/UX Animation Design**  
+- 🌱 Currently learning **Performance App & AI**  
 - 📫 Reach me at **tonyajipalguno19@gmail.com**  
 
 ---
@@ -58,15 +62,15 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonyaji19&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonyaji19&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyaji19&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -82,7 +86,7 @@
 
 ### ✨ Fun Fact  
 - 💡 Always curious about new tech stacks  
-- 🎨 Love UI/UX design with Figma & Adobe XD  
+- 🎨 Love UI Design & Build Application
 - 🏞️ Enjoys problem-solving & teamwork collaboration  
 
 ---

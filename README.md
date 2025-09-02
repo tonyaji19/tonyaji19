@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony Aji Palguno | Software Developer</h1>
+<h1 align="center">Hi 👋, I'm Tony Aji Palguno | Software Engineer</h1>
 <h3 align="center">Passionate Frontend Developer and Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyaji19&label=Profile%20views&color=0e75b6&style=flat" alt="tonyaji19" /> </p>

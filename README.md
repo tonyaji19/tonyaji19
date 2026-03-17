@@ -26,7 +26,7 @@
 - 💼 Software Engineer at **PT MRT Jakarta**
 - 💻 Focus on **Full-Stack Development (Frontend & Backend)**
 - ⚡ Experienced in building **Web Apps, APIs, and Scalable Systems**
-- 🧠 Interested in **Performance Optimization & AI**
+- 🧠 Interested in **Performance Optimization & AI Agent**
 - 🌐 Portfolio: **https://tonyaji.biz.id/**
 
 ---
@@ -83,7 +83,7 @@ Docker, Jenkins, Git, GitHub, Figma, Postman
 
 ## ✨ Fun Fact
 - 💡 Love building scalable apps & clean UI
-- 🎯 Passionate about problem solving
+- 🎯 Passionate about problem-solving
 - 🚀 Always exploring new technologies
 
 ---
